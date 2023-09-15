@@ -1,0 +1,13 @@
+# comment code
+Ctrl + /
+# Re Format
+Ctrl + Alt + L
+# run / build project
+Alt + Shift + F10
+# copy và dán giá trị liền kề
+Ctrl + D
+# tìm kiếm để sửa nhưng giá trị giống nhau
+Alt + J
+# Phím tắt mở terminal
+Alt + F12
+
